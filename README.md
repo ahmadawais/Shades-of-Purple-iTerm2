@@ -25,7 +25,7 @@
 
 <br>
 
-An awesome Shades-of-Purple theme for iTerm2 and a companion ZSH theme. Yes, Shades-of-Purple in your terminal!
+>Professional iTerm2 theme with hand-picked & bold shades of purple 💜 to go along with your iTerm2 terminal. A custom iTerm2 theme with style.
 
 <br>
 
