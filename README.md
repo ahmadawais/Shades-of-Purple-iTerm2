@@ -56,20 +56,52 @@ They work well together! You will need to install the patched powerline font as 
 
 <br>
 
-![Thanks](https://on.ahmda.ws/qWCl/c)
+![Thanks](http://on.ahmda.ws/orkW/c)
 
-## Thanks
+## License & Attribution
+
+**Licensed** as MIT ⓒ [Ahmad Awais](https://AhmadAwais.com/).
 
 Thanks to the creators of Agnoster, Cobalt themes and patched powerline fonts. And Icons8 for best icons.
 
-**Licensed** as MIT ⓒ [Ahmad Awais](https://AhmadAwais.com/).
 
 
 _Say 👋 on Twitter_ →  [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
----
-### 🙌 [WPCOUPLE PARTNERS](https://WPCouple.com/partners):
-This open source project is maintained by the help of awesome businesses listed below. What? [Read more about it →](https://WPCouple.com/partners)
+<br>
+
+![Shades of purple for other software](https://on.ahmda.ws/qYAe/c)
+
+## Put `Shades of Purple` In Other Places!
+
+I have built other `Shades of Purple` themes for different software. Here's a list.
+
+- 💜 [VSCode theme](https://github.com/ahmadawais/shades-of-purple-vscode) — Shades of Purple
+- 💜 [iTerm2 theme](https://github.com/ahmadawais/shades-of-purple-iterm2) — Shades of Purple
+
+<br>
+
+![Hello](http://on.ahmda.ws/os6O/c)
+
+#### **Hello, we're the [WordPress Couple](https://WPCouple.com)**!
+
+I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) am a Full Stack Web Developer and a regular core contributor at WordPress. My significant other ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Project Manager, and she's also a WordPress Core Contributor. Together with our [team](https://WPCouple.com/team), we run the [WPCouple.com](https://WPCouple.com/).
+
+If you'd like to get insights into our love for open source software, professional full stack development, WordPress community, the growth of JavaScript or growing a family, building, and bootstrapping a business, then subscribe to our premium newsletter called ↣ [The WordPress Takeaway](https://WPTakeaway.club)!
+
+#### [**Support our Open Source Projects!**](https://pay.paddle.com/checkout/515568) 🎩
+
+If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you.
+
+<br>
+
+![Partners](http://on.ahmda.ws/osEJ/c)
+
+### Project Backers & [WPCouple Partners](https://WPCouple.com/partners) ⚡️
+
+This FOSS (free and open source software) project is updated and maintained with the help of awesome businesses listed below. Without the support from these amazing companies/individuals, this project would not have been possible.
+
+— _What/How? [Read more about it →](https://WPCouple.com/partners)_
 
 <table width='100%'>
 	<tr>
