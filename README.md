@@ -56,20 +56,6 @@ They work well together! You will need to install the patched powerline font as 
 
 <br>
 
-![Thanks](http://on.ahmda.ws/orkW/c)
-
-## License & Attribution
-
-**Licensed** as MIT ⓒ [Ahmad Awais](https://AhmadAwais.com/).
-
-Thanks to the creators of Agnoster, Cobalt themes and patched powerline fonts. And Icons8 for best icons.
-
-
-
-_Say 👋 on Twitter_ →  [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
-
-<br>
-
 ![Shades of purple for other software](https://on.ahmda.ws/qYAe/c)
 
 ## Put `Shades of Purple` In Other Places!
@@ -130,3 +116,16 @@ This FOSS (free and open source software) project is updated and maintained with
 		<td width='333.33'><a target='_blank' href='https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/mu3F/c' /></a></td>
 	</tr>
 </table>
+
+
+<br>
+
+![Thanks](http://on.ahmda.ws/orkW/c)
+
+## License & Attribution
+
+**Licensed** as MIT ⓒ [Ahmad Awais](https://AhmadAwais.com/).
+
+Thanks to the creators of Agnoster, Cobalt themes and patched powerline fonts. And Icons8 for the icons in this readme.
+
+_Say 👋 on Twitter_ →  [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
