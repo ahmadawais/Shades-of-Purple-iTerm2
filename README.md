@@ -33,10 +33,10 @@
 
 ## Easy Installation
 
-1. Drop the `shades-of-purple.zsh-theme` file in to the `~/.oh-my-zsh/themes/` directory.
+1. Drop the [`shades-of-purple.zsh-theme`](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-iterm2/master/shades-of-purple.zsh-theme) file in to the `~/.oh-my-zsh/themes/` directory.
 2. Open up your ZSH preferences at `~/.zshrc` and change the theme variable to `ZSH_THEME="shades-of-purple"`.
 3. In iTerm2 access the *Preferences* pane on the *Profiles* tab.
-4. Under the *Colors* tab import the `shades-of-purple.itermcolors` file via the *Load Presets* drop-down at the bottom right.
+4. Under the *Colors* tab import the [`shades-of-purple.itermcolors`](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-iterm2/master/shades-of-purple.itermcolors) file via the *Load Presets* drop-down at the bottom right.
 5. Under the *Text* tab change the font for each type (*Regular Font* to [Operator Mono](https://www.typography.com/fonts/operator/styles/) or [Fira Code](https://github.com/tonsky/FiraCode) or whatever you like, but for *Non-ASCII* font you must use **[Inconsolata for Powerline](https://github.com/powerline/fonts/tree/master/Inconsolata)**.
 6. Refresh ZSH by typing `source ~/.zshrc` on the command line.
 7. Done!!! 🙌
@@ -47,8 +47,8 @@
 
 ## Tips & Tricks
 
-- ✅ `shades-of-purple.itermcolors` is for anyone who uses iTerm2 and wants the same colors as shown above.
-- ✅ `shades-of-purple.zsh-theme` is the prompt layout for zsh users to make your terminal report relevant and awesome info. You should probably use both.
+- ✅ [`shades-of-purple.itermcolors`](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-iterm2/master/shades-of-purple.itermcolors) is for anyone who uses iTerm2 and wants the same colors as shown above.
+- ✅ [`shades-of-purple.zsh-theme`](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-iterm2/master/shades-of-purple.zsh-theme) is the prompt layout for zsh users to make your terminal report relevant and awesome info. You should probably use both.
 
 ![my font settings](https://on.ahmda.ws/qYpw/c)
 
