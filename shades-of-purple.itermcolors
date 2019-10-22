@@ -5,7 +5,7 @@
         <key>Ansi 0 Color</key>
         <dict>
             <key>Alpha Component</key>
-            <real>0</real>
+            <real>1</real>
             <key>Blue Component</key>
             <real>0.0</real>
             <key>Color Space</key>
