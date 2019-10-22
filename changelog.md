@@ -29,6 +29,22 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
+### RELEASE: [2.1.0](https://github.com/ahmadawais/shades-of-purple-iterm2/compare/2.0.0...2.1.0)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Featured Image [`cfeda12`](https://github.com/ahmadawais/shades-of-purple-iterm2/commit/cfeda123fc7d238d1199366f24540af24ac53524) <br>
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Pkg Data [`f597f8e`](https://github.com/ahmadawais/shades-of-purple-iterm2/commit/f597f8e2c41ff143f65a25ff2b4a321cbc1175f6) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [2.0.0](https://github.com/ahmadawais/shades-of-purple-iterm2/compare/1.2.0...2.0.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -41,6 +57,7 @@ I have released a video course to help you become a better developer — <a href
 
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
+>  📖 Changelog update [`4331ece`](https://github.com/ahmadawais/shades-of-purple-iterm2/commit/4331ece6d95a6ac560bdcae064713caac98a94ae) <br>
 >  📖 Changelog [`1cf27e9`](https://github.com/ahmadawais/shades-of-purple-iterm2/commit/1cf27e99a464b64801086f8313205c17f376f5ef) <br>
 
 <br>
