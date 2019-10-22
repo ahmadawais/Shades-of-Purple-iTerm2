@@ -1,9 +1,14 @@
 {
 	"name": "shades-of-purple-iterm2",
+	"version": "2.0.0",
 	"displayName": "Shades of Purple for iTerm2",
 	"description": "Professional iTerm2 theme with hand-picked & bold shades of purple to go along with your iTerm2 terminal. A custom iTerm2 theme with style.",
-	"version": "2.0.0",
-	"publisher": "ahmadawais",
+	"license": "MIT",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ahmadawais/shades-of-purple-iterm2"
@@ -13,6 +18,8 @@
 		"Shade of Purple",
 		"Cobalt",
 		"iTerm2",
-		"cobalt 3"
+		"cobalt 3",
+		"Ahmad Awais",
+		"ahmadawais"
 	]
 }
