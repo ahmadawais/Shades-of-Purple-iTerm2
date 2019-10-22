@@ -1,4 +1,4 @@
-<img alt="Shades-of-Purple Theme for iTerm2 and ZSH" align="center" src="https://on.ahmda.ws/qYoz/c" />
+<img alt="Shades-of-Purple Theme for iTerm2 and ZSH" align="center" src="https://on.ahmda.ws/953221/c" />
 
 <h1 align="center">Shades of Purple Theme for iTerm2</h1>
 
