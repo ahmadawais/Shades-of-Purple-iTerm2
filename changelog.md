@@ -29,6 +29,19 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
+### RELEASE: [2.2.0](https://github.com/ahmadawais/shades-of-purple-iterm2/compare/2.1.0...2.2.0)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Alpha Component [`b148e89`](https://github.com/ahmadawais/shades-of-purple-iterm2/commit/b148e89a3bc87003c1ec82d1ef2c46f34ceb4357) <br>
+> 🐛 Alpha Component [`9981c9d`](https://github.com/ahmadawais/shades-of-purple-iterm2/commit/9981c9d8476ab27cc6ea7b834397e90e15df3cbd) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [2.1.0](https://github.com/ahmadawais/shades-of-purple-iterm2/compare/2.0.0...2.1.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -38,6 +51,10 @@ I have released a video course to help you become a better developer — <a href
 ![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
 > 👌 Pkg Data [`f597f8e`](https://github.com/ahmadawais/shades-of-purple-iterm2/commit/f597f8e2c41ff143f65a25ff2b4a321cbc1175f6) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Changelog update [`f25824d`](https://github.com/ahmadawais/shades-of-purple-iterm2/commit/f25824d28624188715faf1892b74171a4656ae2c) <br>
 
 <br>
 
