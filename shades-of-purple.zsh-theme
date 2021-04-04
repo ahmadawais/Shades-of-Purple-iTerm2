@@ -9,10 +9,11 @@
 # In order for this theme to render correctly, you will need a
 # [Powerline-patched font](https://gist.github.com/1595572).
 #
-# In addition, I recommend the
-# [Solarized theme](https://github.com/altercation/solarized/) and, if you're
-# using it on Mac OS X, [iTerm 2](http://www.iterm2.com/) over Terminal.app -
-# it has significantly better color fidelity.
+# In addition, if you're using it on Mac OS X, I recommend the
+# [iTerm 2](http://www.iterm2.com/) over Terminal.app — it has 
+# significantly better color fidelity — and the 
+# [Shades of Purple iTerm2 theme](https://github.com/ahmadawais/Shades-of-Purple-iTerm2).
+
 #
 # # Goals.
 #
