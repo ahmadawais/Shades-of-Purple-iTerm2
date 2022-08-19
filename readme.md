@@ -57,7 +57,7 @@ They work well together! You will need to install the patched powerline font as 
 
 <br>
 
-![Shades of purple for other software](https://on.ahmda.ws/qYAe/c)
+![video](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/2_video_demo.png)
 
 ## Put `Shades of Purple` In Other Places!
 
