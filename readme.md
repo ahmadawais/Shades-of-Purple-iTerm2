@@ -29,7 +29,8 @@
 
 <br>
 
-![Install](https://on.ahmda.ws/qWVC/c)
+![Install](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/4_install.png)
+
 
 ## Easy Installation
 
@@ -43,7 +44,7 @@
 
 <br>
 
-![Tips](https://on.ahmda.ws/qVjy/c)
+![Tips](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/6_custom_settings.png)
 
 ## Tips & Tricks
 
@@ -71,7 +72,8 @@ I have built other `Shades of Purple` themes for different software. Here's a li
 
 <br>
 
-![Hello](https://on.ahmda.ws/os6O/c)
+![Hello](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/10_hello.png)
+
 
 #### **Hello, we're [TheDevCouple](https://TheDevCouple.com)**!
 
@@ -85,29 +87,7 @@ If you'd like us to keep producing professional free and open source software (F
 
 <br>
 
-![Partners](https://on.ahmda.ws/osEJ/c)
-
-### Project Backers & [TheDevCouple Partners](https://TheDevCouple.com/partners) ⚡️
-
-This FOSS (free and open source software) project is updated and maintained with the help of awesome businesses listed below. Without the support from these amazing companies/individuals, this project would not have been possible.
-
-— _What/How? [Read more about it →](https://TheDevCouple.com/partners)_
-
-<table width='100%'>
-	<tr>
-		<td width='500'><a target='_blank' href='https://kinsta.com/?kaid=WMDAKYHJLNJX&utm_source=TheDevCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/73cedc/c' /></a></td>
-		<td width='500'><a target='_blank' href='https://ahmda.ws/USES_WPE?utm_source=TheDevCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/ff40fe/c' /></a></td>
-	</tr>
-	<tr>
-		<td width='500'><a target='_blank' href='https://mythemeshop.com/?utm_source=TheDevCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/3166d9/c' /></a></td>
-		<td width='500'><a target='_blank' href='https://ipapi.co/?utm_source=TheDevCouple&utm_medium=Partner'><img src='https://d2ddoduugvun08.cloudfront.net/items/1R190r2U0p3N3L0U0b2u/ip-api.png'/></a></td>
-	</tr>
-</table>
-
-
-<br>
-
-![Thanks](https://on.ahmda.ws/orkW/c)
+![License & Attribution thanks](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/12_license.png)
 
 ## License & Attribution
 
